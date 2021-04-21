@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 
-''' A Python 2 implementation of an FTP client that uses some functions of the ftplib module. Written by Danilo Santos '''
+''' A simple Python 2 implementation of an FTP client that uses some functions of the ftplib module. Written by Danilo Santos '''
 
 import argparse
 import ftplib
