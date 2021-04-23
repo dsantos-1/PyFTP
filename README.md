@@ -14,3 +14,7 @@ Run the script with `python2 pyftp.py [--port PORT] <host> <user> <password>`. A
 * The upload, download and removal of files with space characters and/or special characters are currently not supported. However, the creation, removal and change of directories with space characters are supported.
 * If you're running this script inside a Metasploit shell, type "?" instead of "help", if needed.
 * Please file an issue if this script doesn't behave as expected.
+
+# To-do
+* Implement the upload, download and removal of files with space characters
+* Implement lcd (local cd) and lpwd (local pwd) commands
