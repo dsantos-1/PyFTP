@@ -13,7 +13,9 @@ Run the script with `python2 pyftp.py [--port PORT] <host> <user> <password>`. A
 * It is also possible to run this script on Python 3. However, some modifications to the code are required.
 * The upload, download and removal of files with space characters and/or special characters are currently not supported. However, the creation, removal and change of directories with space characters are supported.
 * If you're running this script inside a Metasploit shell, type "?" instead of "help", if needed.
-* Please file an issue if this script doesn't behave as expected.
+* Please file an issue if this script doesn't behave as expected. Your issue should include:
+  * Steps to reprouce it.
+  * Full log messages (feel free to edit out any sensible data).
 
 # To-do
 * Implement the upload, download and removal of files with space characters
